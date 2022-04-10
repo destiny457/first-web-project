@@ -1,0 +1,120 @@
+body{
+ margin: 0;
+ font-family: 'merriweather';
+ text-align: center;
+}
+.top-container{
+ background-color: #F2FFDF;
+ position: relative;
+}
+.middle-container{
+  background-color: #FEECE9;
+}
+.bottom-container{
+ background-color: #DEFCFC;
+}
+.last-container{
+ background-color: #FAD9E6;
+ padding-bottom: 10px;
+}
+.sagejoe{
+ width: 200px;
+ height: 200px;
+ padding-top: 60px;
+ margin-bottom: 5px;
+}
+.bottom-cloud{
+ position: absolute;
+ left: 200px;
+}
+.top-cloud{
+ position: absolute;
+ right: 200px;
+ top: 200px;
+}
+h1{
+ font-family: 'sacramento';
+ width: 20%;
+ margin: 0 auto;
+ padding-top: 30px;
+ color: #F900BF;
+ font-size: 70px;
+}
+.profile{
+ margin: 0;
+ color: black;
+ font-size: 15px;
+}
+/*hr{
+ margin: 0 auto;
+ border-color: gray;
+ border-style: none;
+ border-top-style: inset;
+ border-width: 1px;
+}*/
+h2{
+ margin-top: 0;
+ padding-top: 100px;
+ font-family: 'montserrat';
+ color: #E41749;
+ font-size: 40px;
+}
+.computer{
+ width: 200px;
+ height: 200px;
+ padding-top: 10px;
+}
+h3{
+ font-family: 'montserrat';
+ padding-top: 20px;
+ margin-top: 0;
+ color: #0F00FF;
+ font-size: 30px;
+}
+h4{
+ color: #E41749;
+ font-size: 25px;
+}
+.status{
+ margin-bottom: 0;
+ padding-bottom: 30px;
+ color: black;
+}
+.best-skills{
+ margin: 0;
+ padding-bottom: 30px;
+ color: black;
+}
+.teacher{
+ width: 200px;
+ height: 200px;
+ padding-top: 100px;
+}
+.experience{
+ margin-bottom: 0;
+ padding-bottom: 30px;
+ color: black;
+}
+.in-touch{
+ padding-top: 50px;
+ margin: 0;
+}
+.mountain{
+ margin-bottom: 0;
+ position: relative;
+}
+.job{
+ color: black;
+}
+.copyright{
+ color: #0F00FF;
+ font-size: 15px;
+}
+.contact-form{
+ background-color: #FAD9E6;
+ width: 100%;
+ height: 100vh;
+}
+form{
+ text-align: left;
+}
